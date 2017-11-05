@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_lnLlcp.a  CMakeFiles/NxpRdLib_lnLlcp.dir/src/phlnLlcp.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Sw.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Sw_Int.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Sw_Mac.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Sw_Transport.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Sw_Transport_Connection.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Sw_Transport_Connectionless.c.o CMakeFiles/NxpRdLib_lnLlcp.dir/src/Sw/phlnLlcp_Timers.c.o
+/usr/bin/ranlib libNxpRdLib_lnLlcp.a

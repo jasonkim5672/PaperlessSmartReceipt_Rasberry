@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alFelica.a  CMakeFiles/NxpRdLib_alFelica.dir/src/phalFelica.c.o CMakeFiles/NxpRdLib_alFelica.dir/src/Sw/phalFelica_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_alFelica.a

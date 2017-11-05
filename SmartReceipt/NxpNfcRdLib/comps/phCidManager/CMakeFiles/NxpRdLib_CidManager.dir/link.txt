@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_CidManager.a  CMakeFiles/NxpRdLib_CidManager.dir/src/phCidManager.c.o CMakeFiles/NxpRdLib_CidManager.dir/src/Sw/phCidManager_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_CidManager.a

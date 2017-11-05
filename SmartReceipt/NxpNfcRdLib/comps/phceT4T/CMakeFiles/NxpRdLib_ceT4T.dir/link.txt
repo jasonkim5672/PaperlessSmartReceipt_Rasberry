@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_ceT4T.a  CMakeFiles/NxpRdLib_ceT4T.dir/src/phceT4T.c.o CMakeFiles/NxpRdLib_ceT4T.dir/src/Sw/phceT4T_Sw.c.o CMakeFiles/NxpRdLib_ceT4T.dir/src/Sw/phceT4T_Sw_Int.c.o
+/usr/bin/ranlib libNxpRdLib_ceT4T.a

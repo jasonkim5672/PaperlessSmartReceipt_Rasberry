@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alI18000p3m3.a  CMakeFiles/NxpRdLib_alI18000p3m3.dir/src/phalI18000p3m3.c.o CMakeFiles/NxpRdLib_alI18000p3m3.dir/src/Sw/phalI18000p3m3_Sw.c.o CMakeFiles/NxpRdLib_alI18000p3m3.dir/src/Sw/phalI18000p3m3_Sw_Int.c.o
+/usr/bin/ranlib libNxpRdLib_alI18000p3m3.a

@@ -1,0 +1,75 @@
+# Install script for directory: /home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps
+
+# Set the install prefix
+if(NOT DEFINED CMAKE_INSTALL_PREFIX)
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
+endif()
+string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
+
+# Set the install configuration name.
+if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
+  if(BUILD_TYPE)
+    string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
+           CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
+  else()
+    set(CMAKE_INSTALL_CONFIG_NAME "")
+  endif()
+  message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
+endif()
+
+# Set the component getting installed.
+if(NOT CMAKE_INSTALL_COMPONENT)
+  if(COMPONENT)
+    message(STATUS "Install component: \"${COMPONENT}\"")
+    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")
+  else()
+    set(CMAKE_INSTALL_COMPONENT)
+  endif()
+endif()
+
+# Install shared libraries without execute permission?
+if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+  set(CMAKE_INSTALL_SO_NO_EXE "1")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phacDiscLoop/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalFelica/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalI15693/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalI18000p3m3/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalMfc/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalMfdf/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalMful/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalSli/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalT1T/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phalTop/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phbalReg/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phceT4T/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phCidManager/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phCryptoRng/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phCryptoSym/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phhalHw/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phKeyStore/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phlnLlcp/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phLog/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phNfcLib/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phnpSnep/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phOsal/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalEpcUid/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalFelica/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI14443p3a/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI14443p3b/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI14443p4/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI14443p4a/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI14443p4mC/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI18000p3m3/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI18092mPI/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalI18092mT/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalMifare/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phpalSli15693/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phPlatform/cmake_install.cmake")
+  include("/home/pi/workspace/SmartReceipt/NxpNfcRdLib/comps/phTools/cmake_install.cmake")
+
+endif()
+

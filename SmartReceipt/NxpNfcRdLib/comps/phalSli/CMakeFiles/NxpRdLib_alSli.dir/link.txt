@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alSli.a  CMakeFiles/NxpRdLib_alSli.dir/src/phalSli.c.o CMakeFiles/NxpRdLib_alSli.dir/src/Sw/phalSli_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_alSli.a

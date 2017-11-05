@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alT1T.a  CMakeFiles/NxpRdLib_alT1T.dir/src/phalT1T.c.o CMakeFiles/NxpRdLib_alT1T.dir/src/Sw/phalT1T_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_alT1T.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alTop.a  CMakeFiles/NxpRdLib_alTop.dir/src/phalTop.c.o CMakeFiles/NxpRdLib_alTop.dir/src/Sw/phalTop_Sw.c.o CMakeFiles/NxpRdLib_alTop.dir/src/Sw/phalTop_Sw_Int_T1T.c.o CMakeFiles/NxpRdLib_alTop.dir/src/Sw/phalTop_Sw_Int_T2T.c.o CMakeFiles/NxpRdLib_alTop.dir/src/Sw/phalTop_Sw_Int_T3T.c.o CMakeFiles/NxpRdLib_alTop.dir/src/Sw/phalTop_Sw_Int_T4T.c.o CMakeFiles/NxpRdLib_alTop.dir/src/Sw/phalTop_Sw_Int_T5T.c.o
+/usr/bin/ranlib libNxpRdLib_alTop.a

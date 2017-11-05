@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_palSli15693.a  CMakeFiles/NxpRdLib_palSli15693.dir/src/phpalSli15693.c.o CMakeFiles/NxpRdLib_palSli15693.dir/src/Sw/phpalSli15693_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_palSli15693.a

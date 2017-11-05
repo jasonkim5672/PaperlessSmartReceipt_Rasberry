@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_phNfcLib.a  CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib.c.o CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib_15693.c.o CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib_18000p3m3.c.o CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib_MFC.c.o CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib_MFDF.c.o CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib_MFUL.c.o CMakeFiles/NxpRdLib_phNfcLib.dir/src/phNfcLib_Utility.c.o
+/usr/bin/ranlib libNxpRdLib_phNfcLib.a

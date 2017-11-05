@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_Osal.a  CMakeFiles/NxpRdLib_Osal.dir/src/Freertos/phOsal_Freertos.c.o CMakeFiles/NxpRdLib_Osal.dir/src/NullOs/phOsal_NullOs.c.o CMakeFiles/NxpRdLib_Osal.dir/src/Linux/phOsal_Linux.c.o
+/usr/bin/ranlib libNxpRdLib_Osal.a

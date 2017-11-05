@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_Log.a  CMakeFiles/NxpRdLib_Log.dir/src/phLog.c.o
+/usr/bin/ranlib libNxpRdLib_Log.a

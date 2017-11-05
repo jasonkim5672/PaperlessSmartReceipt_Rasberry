@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alMfc.a  CMakeFiles/NxpRdLib_alMfc.dir/src/phalMfc.c.o CMakeFiles/NxpRdLib_alMfc.dir/src/phalMfc_Int.c.o CMakeFiles/NxpRdLib_alMfc.dir/src/Sw/phalMfc_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_alMfc.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_alMful.a  CMakeFiles/NxpRdLib_alMful.dir/src/phalMful.c.o CMakeFiles/NxpRdLib_alMful.dir/src/phalMful_Int.c.o CMakeFiles/NxpRdLib_alMful.dir/src/Sw/phalMful_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_alMful.a

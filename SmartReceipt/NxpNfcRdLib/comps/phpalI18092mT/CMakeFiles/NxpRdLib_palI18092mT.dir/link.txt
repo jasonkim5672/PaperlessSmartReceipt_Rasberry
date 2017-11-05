@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_palI18092mT.a  CMakeFiles/NxpRdLib_palI18092mT.dir/src/phpalI18092mT.c.o CMakeFiles/NxpRdLib_palI18092mT.dir/src/Sw/phpalI18092mT_Sw.c.o CMakeFiles/NxpRdLib_palI18092mT.dir/src/Sw/phpalI18092mT_Sw_Int.c.o
+/usr/bin/ranlib libNxpRdLib_palI18092mT.a

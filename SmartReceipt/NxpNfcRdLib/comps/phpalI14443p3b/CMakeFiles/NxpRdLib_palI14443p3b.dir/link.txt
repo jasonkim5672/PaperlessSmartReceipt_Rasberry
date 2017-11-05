@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_palI14443p3b.a  CMakeFiles/NxpRdLib_palI14443p3b.dir/src/phpalI14443p3b.c.o CMakeFiles/NxpRdLib_palI14443p3b.dir/src/Sw/phpalI14443p3b_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_palI14443p3b.a

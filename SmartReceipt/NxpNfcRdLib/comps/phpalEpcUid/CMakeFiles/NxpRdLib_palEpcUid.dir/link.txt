@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_palEpcUid.a  CMakeFiles/NxpRdLib_palEpcUid.dir/src/phpalEpcUid.c.o CMakeFiles/NxpRdLib_palEpcUid.dir/src/Sw/phpalEpcUid_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_palEpcUid.a

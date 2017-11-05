@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_palFelica.a  CMakeFiles/NxpRdLib_palFelica.dir/src/phpalFelica.c.o CMakeFiles/NxpRdLib_palFelica.dir/src/Sw/phpalFelica_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_palFelica.a

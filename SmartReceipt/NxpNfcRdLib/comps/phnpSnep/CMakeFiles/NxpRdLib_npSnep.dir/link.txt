@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_npSnep.a  CMakeFiles/NxpRdLib_npSnep.dir/src/phnpSnep.c.o CMakeFiles/NxpRdLib_npSnep.dir/src/Sw/phnpSnep_Sw.c.o
+/usr/bin/ranlib libNxpRdLib_npSnep.a

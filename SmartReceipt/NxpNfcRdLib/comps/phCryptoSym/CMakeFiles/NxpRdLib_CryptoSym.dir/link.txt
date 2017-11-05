@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNxpRdLib_CryptoSym.a  CMakeFiles/NxpRdLib_CryptoSym.dir/src/phCryptoSym.c.o CMakeFiles/NxpRdLib_CryptoSym.dir/src/Sw/phCryptoSym_Sw.c.o CMakeFiles/NxpRdLib_CryptoSym.dir/src/Sw/phCryptoSym_Sw_Aes.c.o CMakeFiles/NxpRdLib_CryptoSym.dir/src/Sw/phCryptoSym_Sw_Des.c.o CMakeFiles/NxpRdLib_CryptoSym.dir/src/Sw/phCryptoSym_Sw_Int.c.o
+/usr/bin/ranlib libNxpRdLib_CryptoSym.a
